@@ -1,0 +1,59 @@
+
+---Downloaded files---
+The import files for: Home v7 (LearnDash) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/datacquence
+Data file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/content.xml
+Widget file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/widget_data.wie
+Customizer file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Edubin Recent Post - Recent Posts - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Footer 2 : 
+
+Navigation Menu - Feature Links - Widget already exists
+
+Footer 3 : 
+
+Navigation Menu - Support - Widget already exists
+
+Footer 4 : 
+
+Text - Contact Us - Widget already exists
+
+ld-course-sidebar-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+widget_ldcoursenavigation - No Title - Site does not support widget
+
+The Events Calendar Single : 
+
+Events List - Upcoming Events - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,307 @@
+/*Edubin admin style*/
+
+.wp-core-ui .button-primary {
+    background: #0073aa!important;
+    border-color: #0073aa!important;
+    box-shadow: none!important;
+    text-decoration: none;
+    text-shadow: none;
+    color: #fff;
+}
+
+.ocdi__gl-item-footer {
+    height: 40px;
+    padding: 20px 20px 10px 20px;
+}
+
+.notice-success, div.updated {
+    border-left-color: #0473aa
+}
+p#footer-upgrade {
+    display: none
+}
+.acf-fields.-sidebar {
+    padding: 0 0 0 20%!important;
+    position: relative;
+    overflow: visible;
+    min-height: 300px
+}
+.acf-fr {
+    width: 100%;
+    margin-top: 10px!important
+}
+.acf-gallery.ui-resizable {
+    height: 200px!important
+}
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu {
+    background: #0473aa!important
+}
+#gallery-metabox-list li {
+    float: left;
+    display: inline-block;
+    max-width: 116px
+}
+#gallery-metabox-list .image-preview {
+    width: 100px
+}
+.gallery-add.button {
+    display: inline-block;
+    max-width: 100%;
+    background: #0473aa;
+    text-align: center;
+    text-decoration: none;
+    padding: 0 10px;
+    float: left;
+    width: 100%;
+    border: 1px solid #0473aa
+}
+#gallery-metabox-list .remove-icon-start {
+    width: 100%;
+    float: left;
+    z-index: 999;
+    position: relative;
+    margin-top: -30px
+}
+.edubin-license-details, .edubin-system-stats {
+    background: #fff;
+    padding: 10px 30px 50px 30px;
+    border-radius: 3px;
+    margin-top: 20px;
+    color: #000;
+    webkit-box-shadow: 0 5px 40px 0 rgba(10, 10, 25, .1);
+    -moz-box-shadow: 0 5px 40px 0 rgba(10, 10, 25, .1);
+    box-shadow: 0 5px 40px 0 rgba(10, 10, 25, .1)
+}
+.notice-success.edubin-success-notice {
+    background-color: rgba(30, 170, 0, .1);
+    color: #1eaa00
+}
+.edubin-active {
+    background-color: rgba(30, 170, 0, .1);
+    color: #1eaa00;
+    padding: 3px 10px 5px 10px;
+    border-radius: 3px
+}
+mark.green {
+    background-color: rgba(30, 170, 0, .1);
+    color: #1eaa00
+}
+.edubin-inactive {
+    background-color: rgba(230, 30, 31, .1);
+    color: #e61e1f;
+    padding: 3px 10px 5px 10px;
+    border-radius: 3px
+}
+mark.error {
+    background-color: rgba(230, 30, 31, .1);
+    color: #e61e1f
+}
+.edubin-purchase-panel .notice-error.notice-alt {
+    background-color: rgba(230, 30, 31, .1);
+    padding: 1px 10px;
+    color: #e61e1f;
+    font-size: 16px;
+    line-height: 16px
+}
+.edubin-purchase-panel .notice-warning.notice-alt {
+    background-color: rgba(255, 185, 0, .1);
+    color: #ffb900;
+    padding: 1px 10px;
+    margin: 10px 0
+}
+.edubin-purchase-panel input[type=text] {
+    border: 2px solid #fff;
+    box-shadow: none;
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+    border-radius: 3px;
+    height: 50px;
+    font-weight: 700
+}
+.edubin-purchase-panel .button-primary {
+    background: #ffc600!important;
+    border-color: #ffc600!important;
+    box-shadow: 0 1px 0 #ffc600!important;
+    color: #fff!important;
+    text-decoration: none;
+    text-shadow: none;
+    padding: 5px 60px!important;
+    height: 50px!important;
+    font-size: 20px
+}
+.system-status-table {
+    width: 100%
+}
+.system-status-table tr td {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee
+}
+.edubin-badge {
+    background: #fff;
+    max-width: 80px;
+    text-align: center;
+    padding: 15px 20px;
+    position: absolute;
+    right: 25%;
+    top: -5px;
+    display: inline-block;
+    color: #07294d;
+    border-radius: 3px;
+}
+.edubin-badge p {
+    margin: 0;
+    padding: 0
+}
+.edubin-badge img {
+    max-width: 40px
+}
+td.status.column-status .published {
+    color: #006505;
+    background: rgba(0, 101, 5, .18);
+    padding: 5px 15px;
+    border-radius: 3px
+}
+td.status.column-status .pending-review, td.status.column-status .draft, td.status.column-status .scheduled, td.status.column-status .other {
+    color: #d54e21;
+    background: rgba(213, 78, 33, .15);
+    padding: 5px 15px;
+    border-radius: 3px
+}
+.about-wrap.edubin-wrap .nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper {
+    border-bottom: 2px solid #ccc
+}
+.about-wrap.edubin-wrap .nav-tab.nav-tab-active {
+    margin-bottom: -2px;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #ffc600;
+    color: #ffc600
+}
+.about-wrap.edubin-wrap .nav-tab:hover, .about-wrap.edubin-wrap .nav-tab:focus {
+    margin-bottom: -2px;
+    border-bottom: 2px solid #ffc600;
+    color: #ffc600;
+    outline: none
+}
+.about-wrap.edubin-wrap .nav-tab {
+    float: left;
+    border: none;
+    outline: none;
+    border-bottom: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    background: transparent;
+    margin-left: 0;
+    margin-right: .5em
+}
+.menu_custom_fields input, .menu_custom_fields select {
+    width: 100%;
+    float: left
+}
+.edubin-meta-admin {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end
+}
+.edubin-admin-col-6 {
+    width: 47%;
+    padding: 10px
+}
+.edubin-admin-col-12 {
+    width: 100%;
+    padding: 5px
+}
+.edubin-meta-admin #documentation {
+    margin-top: 0!important
+}
+.edubin-meta-admin label {
+    font-weight: 700
+}
+.edubin-input-box-admin {
+    margin-top: 7px
+}
+@media (max-width:991px) {
+    .edubin-admin-col-6 {
+        width: 100%;
+        padding: 10px
+    }
+}
+#current_img {
+    max-width: 400px
+}
+#current_img img {
+    max-width: 100%
+}
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.wp-dialog.ui-dialog-buttons.ui-draggable {
+    width: 500px!important;
+}
+.ocdi__modal-notice.ocdi__demo-import-notice:not(:empty) {
+    color: #00a0d2;
+    font-size: 14px;
+    line-height: 24px;
+    border-left: 4px solid #00a0d2;
+    background: #F9F9F9;
+}
+.ocdi__modal-notice.ocdi__demo-import-notice .edubin-ld-video-link {
+display: block;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 8px;
+    padding: 3px 0;
+    font-size: 14px;
+    color: #fff;
+    background: #0073aa;
+    border-color: #0073aa;
+}
+.edubin-ld-video-link {
+    color: #555555;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    max-width: 220px;
+}
+.ocdi__modal-item-title {
+    margin-top: 0.2em;
+    font-size: 16px;
+}
+.install-video.edubin-system-stats {
+    display: flex;
+}
+.edubin-setup-video-clm {
+    background: #fcfcfc;
+    margin: 40px 20px 0;
+    padding: 35px;
+    -webkit-box-shadow: 0 3px 26px 0 rgb(233, 233, 234);
+    -moz-box-shadow: 0 3px 26px 0 rgb(233, 233, 234);
+    box-shadow: 0 3px 26px 0 rgb(233, 233, 234);
+}
+.edubin-setup-video-clm h3 {
+    font-weight: 400;
+    font-size: 19px;
+    margin: 0 0 20px 0;
+}
+.ocdi__modal-image-container {
+    height: 220px;
+}
+.ocdi__gl-navigation li a {
+    font-size: 15px;
+    padding: 20px 15px;
+}
+/*For learnpress notice*/
+
+.learn-press-notice.notice-warning.notice {
+    display: none!important;
+}
+.learn-press-advertisement-slider {
+    display: none;
+}
+/*For update notice*/
+
+.notice.notice-warning.notice-dtbwp-themeupdates.is-dismissible {
+    background: rgb(215, 236, 251);
+}

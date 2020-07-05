@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Home v7 (LearnDash) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/datacquence
+Data file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/content.xml
+Widget file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/widget_data.wie
+Customizer file = C:\wamp64\www\datacquence/wp-content/themes/edubin/admin/demo/learndash-red/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import product_tag Library
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Novel
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Poem
+[WARNING] Failed to import ld_course_tag Programming
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Story
+[WARNING] Failed to import product_tag Study
+[WARNING] Failed to import ld_course_tag Technology
+[WARNING] Failed to import ld_course_category Technology
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+
